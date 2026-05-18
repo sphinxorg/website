@@ -13,32 +13,6 @@ https://website.sphinxfnd.workers.dev/
 
 ---
 
-## Overview
-
-Sphinx Protocol delivers quantum-resistant infrastructure for decentralized identity systems using:
-
-- SPHINCS+ hash-based signatures
-- Kyber768 post-quantum key encapsulation
-- SPIF grouped hexadecimal identity addresses
-- Universal Sovereign Identity (USI)
-- Mobile-first responsive architecture
-- Dark / light theme support
-- Animated quantum visualizations
-
----
-
-## Features
-
-- Post-Quantum Cryptography
-- Sovereign Identity Infrastructure
-- SPIF Address Encoding
-- Responsive UI/UX
-- Quantum Animation Engine
-- Deferred Rendering Optimizations
-- SEO + PWA Ready
-- Cloudflare Pages Deployment
-
----
 
 ## Tech Stack
 
@@ -167,7 +141,7 @@ Search Console verification
 
 ## License
 
-MIT License
+[MIT License](https://github.com/sphinxorg/website?tab=MIT-1-ov-file)
 
 ---
 
