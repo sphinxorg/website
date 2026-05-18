@@ -1,4 +1,3 @@
-````markdown id="s8km41"
 # Sphinx Protocol Website
 
 > Official website for Sphinx FND.
@@ -386,5 +385,4 @@ Always perform independent research before interacting with decentralized system
 
 ---
 
-Built by the Sphinx FNDs
-````
+Built by the Sphinx FND
