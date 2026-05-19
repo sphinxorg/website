@@ -9,9 +9,7 @@
 
 ## Live Website
 
-```txt
-https://website.sphinxfnd.workers.dev/
-```
+https://sphinxfnd.org
 
 ---
 
