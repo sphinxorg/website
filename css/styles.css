@@ -105,11 +105,33 @@
       border-radius: 4px; transition: all 0.2s;
     }
     .nav-links a:hover { color: var(--accent); background: var(--glow); }
+    /* GitHub stays BLUE */
     .nav-links .btn-nav {
-      color: var(--accent); border: 1px solid var(--accent);
-      padding: 6px 16px; border-radius: 4px;
+      color: var(--accent);
+      border: 1px solid var(--accent);
     }
-    .nav-links .btn-nav:hover { background: var(--accent); color: var(--bg); }
+
+    .nav-links .btn-nav:hover {
+      background: var(--accent);
+      color: var(--bg);
+    }
+
+    /* Foundation becomes YELLOW */
+    .nav-links .btn-foundation {
+      color: var(--gold) !important;
+      border: 1px solid var(--gold) !important;
+    }
+
+    .nav-links .btn-foundation:hover {
+      background: var(--gold) !important;
+      color: var(--bg) !important;
+    }
+
+    /* Same for mobile menu */
+    .mobile-menu .btn-foundation {
+      color: var(--gold) !important;
+      border: 1px solid var(--gold) !important;
+    }
     .nav-right { display: flex; align-items: center; gap: 12px; }
     .theme-toggle {
       background: none; border: 1px solid var(--border);
@@ -123,6 +145,8 @@
       display: none; background: none; border: 1px solid var(--border);
       color: var(--text2); padding: 8px; border-radius: 4px; cursor: pointer;
     }
+
+    
 
     /* ─── HERO ──────────────────────────────────────────────── */
     .hero {
