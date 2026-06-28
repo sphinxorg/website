@@ -201,7 +201,7 @@ CSS variable switching controlled through:
 
 ```bash
 # Clone repository
-git clone https://github.com/sphinxorg/website.git
+git clone https://github.com/sphinxfndorg/website.git
 
 # Enter project
 cd website
